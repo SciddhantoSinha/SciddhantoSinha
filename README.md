@@ -1,95 +1,97 @@
-# Hi 👋, I'm Sciddhanto Sinha  
+# 👋 Hey, I'm Sciddhanto Sinha  
 
-### 🚀 Code | Data | AI — Turning Ideas into Intelligent Systems  
-
----
-
-## 👨‍💻 About Me  
-
-- 🎓 **B.Tech CSE (AI & Analytics)** | MIT ADT University, Pune  
-- 🤖 Passionate about **Machine Learning, Deep Learning & Data Analytics**  
-- 🌐 Experience in **Cloud, Full Stack & Data Engineering**  
-- 💡 I enjoy building **AI-driven solutions** that solve real-world problems  
-
-📌 **My Mantra:** *Learn deeply. Build practically. Improve continuously.*
-
-📫 **Reach me at:**  
-**Email:** sciddhantosinha@gmail.com  
+> I build systems that **learn from data**, **scale in the cloud**, and **solve real problems**.
 
 ---
 
-## 🔗 Connect with Me  
+## 🧠 Who Am I?
 
-- 💼 [LinkedIn](https://linkedin.com/in/sciddhanto-sinha-2036a6264)  
-- 💻 [GitHub](https://github.com/SciddhantoSinha)  
+🎓 Final-year **Computer Science (AI & Analytics)** student  
+📍 Pune, India  
+💡 Curious about **how data turns into decisions**  
+⚙️ Comfortable moving between **ML models, SQL queries, and cloud deployments**
+
+I enjoy working at the intersection of **AI, Data Engineering, and Full-Stack Development** — where models meet production.
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🧩 What I Actually Do
 
-### 💻 Programming Languages  
-`Java` `Python` `C++` `JavaScript` `SQL` `R` `HTML` `CSS`
+- 🧠 Train **ML & Deep Learning models** that explain and predict  
+- 🗃️ Design **data pipelines & schemas** for analytics systems  
+- ☁️ Deploy applications using **Docker & Cloud platforms**  
+- 📊 Convert raw data into **clear insights & dashboards**
 
-### 🤖 AI / ML & Data  
+📌 *If it involves data, intelligence, or scale — I’m interested.*
+
+---
+
+## 🚀 Selected Work
+
+### 🩺 Keratoconus Detection Using CNN  
+**Deep Learning | Medical AI**  
+- Built a CNN model achieving **99.33% accuracy**  
+- Enabled early diagnosis & reduced clinical errors  
+- Applied image preprocessing & model optimization  
+
+### 🛍️ Customer Review Insights  
+**Machine Learning | NLP**  
+- Aspect-Based Sentiment Analysis with **92% accuracy**  
+- Reduced manual review effort by **65%**  
+- Delivered actionable insights via dashboards  
+
+👉 Explore more in my pinned repositories 👇
+
+---
+
+## 🛠 Tech I Work With
+
+**Languages**  
+`Python` `Java` `C++` `JavaScript` `SQL`
+
+**AI / Data**  
 `TensorFlow` `PyTorch` `Scikit-learn` `NLP`  
-`Pandas` `NumPy` `Matplotlib` `Seaborn`  
+`Pandas` `NumPy`
 
-### ☁️ Cloud & DevOps  
+**Cloud & DevOps**  
 `GCP` `Azure` `AWS` `Docker` `Kubernetes`  
-`BigQuery` `SAP Datasphere`  
+`BigQuery` `SAP Datasphere`
 
-### 🌐 Web Development  
-`React.js` `Spring Boot` `REST APIs`  
-`Bootstrap` `Material UI`
-
-### 📊 Data Visualization  
-`Tableau` `Power BI` `Excel`
+**Web & Visualization**  
+`React` `Spring Boot` `REST APIs`  
+`Tableau` `Power BI`
 
 ---
 
-## 📌 Featured Projects  
+## 🧪 Industry Exposure
 
-### 🔹 Customer Review Insights (ML + NLP)  
-- Aspect-Based Sentiment Analysis system  
-- 📈 **92% accuracy**, reduced manual analysis by **65%**  
-- Improved feedback insights by **40%**
+### Vodafone Intelligent Solutions — Data & Analytics Intern  
+- Modeled enterprise datasets in **SAP Datasphere**  
+- Optimized analytical SQL workflows (20% faster)  
+- Validated STM & ETL pipelines end-to-end  
 
-### 🔹 Keratoconus Detection Using CNN  
-- Deep Learning model for eye disease detection  
-- 🧠 **99.33% accuracy** on medical image classification  
-- Enabled early diagnosis & clinical decision support  
-
-👉 *More projects available in pinned repositories below 👇*
+### Xdigics Technologies — Full Stack Intern  
+- Built HRMS SaaS platform for manufacturing clients  
+- Deployed microservices using **Docker + GKE**  
+- Improved system performance & automation  
 
 ---
 
-## 💼 Internship Experience  
+## 🧭 Philosophy
 
-### 🏢 Vodafone Intelligent Solutions — DAIS Intern  
-- Designed enterprise **data models** in SAP Datasphere  
-- Optimized **BigQuery & SQL** queries (20% faster analytics)  
-- STM & ETL validation with 100% structural compliance  
+> “Models are easy to build.  
+> **Making them useful is the real engineering.**”
 
-### 🏢 Xdigics Technologies — Full Stack Intern  
-- Built HRMS SaaS platform (React + Spring Boot)  
-- Deployed microservices on **GKE using Docker**  
-- Improved API performance by **25%**
+I focus on **clarity, correctness, and real-world impact**.
 
 ---
 
-## 🏆 Certifications  
+## 📫 Let’s Connect
 
-- ☁️ AWS Cloud Foundations  
-- 🤖 Microsoft Azure AI Fundamentals (AI-900)  
-- 📊 IBM – Exploratory Data Analysis for ML  
-- 🧠 Deep Learning & DSA Certifications  
-
----
-
-## ⚡ Fun Fact  
-
-> *Machine Learning models are like students — they perform best with good data and proper training.*
+- 🔗 [LinkedIn](https://linkedin.com/in/sciddhanto-sinha-2036a6264)  
+- 💻 [GitHub](https://github.com/SciddhantoSinha)  
+- 📧 sciddhantosinha@gmail.com  
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+✨ *If you like structured code, clean data, and meaningful ML — you’ll enjoy my repositories.*
