@@ -1,12 +1,10 @@
 # 👋 Hey, I'm Sciddhanto Sinha  
 
-> I build systems that **learn from data**, **scale in the cloud**, and **solve real problems**.
-
 ---
 
 ## 🧠 Who Am I?
 
-🎓 Final-year **Computer Science (AI & Analytics)** student  
+🎓 Graduated **Computer Science (AI & Analytics)** student  
 📍 Pune, India  
 💡 Curious about **how data turns into decisions**  
 ⚙️ Comfortable moving between **ML models, SQL queries, and cloud deployments**
@@ -28,17 +26,17 @@ I enjoy working at the intersection of **AI, Data Engineering, and Full-Stack De
 
 ## 🚀 Selected Work
 
+### 🛍️ Customer Review Insights  
+**Machine Learning | NLP**  
+- Aspect-Based Sentiment Analysis with **92% accuracy**  
+- Reduced manual review effort by **65%**  
+- Delivered actionable insights via dashboards
+
 ### 🩺 Keratoconus Detection Using CNN  
 **Deep Learning | Medical AI**  
 - Built a CNN model achieving **99.33% accuracy**  
 - Enabled early diagnosis & reduced clinical errors  
 - Applied image preprocessing & model optimization  
-
-### 🛍️ Customer Review Insights  
-**Machine Learning | NLP**  
-- Aspect-Based Sentiment Analysis with **92% accuracy**  
-- Reduced manual review effort by **65%**  
-- Delivered actionable insights via dashboards  
 
 👉 Explore more in my pinned repositories 👇
 
