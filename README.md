@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sciddhantosinha&label=Profile%20views&color=0e75b6&style=flat" alt="sciddhantosinha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sciddhantosinha" alt="sciddhantosinha" /></a> </p>
-
 - 🌱 I’m currently learning **RAG**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
@@ -17,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sciddhanto-sinha-2036a6264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sciddhanto-sinha-2036a6264" height="30" width="40" /></a>
+<a href="https://instagram.com/sciddhanto_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sciddhanto_04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
